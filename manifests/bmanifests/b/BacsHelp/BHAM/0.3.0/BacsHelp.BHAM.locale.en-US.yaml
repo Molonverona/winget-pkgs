@@ -1,0 +1,19 @@
+PackageIdentifier: BacsHelp.BHAM
+PackageVersion: 0.3.0
+PackageLocale: en-US
+Publisher: BACS Help
+PublisherUrl: https://www.bacshelp.com
+PublisherSupportUrl: https://github.com/Molonverona/BHAM/issues
+Author: Giuliano Molon
+PackageName: BHAM
+PackageUrl: https://github.com/Molonverona/BHAM
+License: MIT
+ShortDescription: BACS Help Auto Mapper - Asynchronous network discovery and telemetry daemon for Building & Industrial Automation.
+Tags:
+  - modbus
+  - bacnet
+  - knx
+  - automation
+  - scanner
+ManifestType: defaultLocale
+ManifestVersion: 1.6.0
